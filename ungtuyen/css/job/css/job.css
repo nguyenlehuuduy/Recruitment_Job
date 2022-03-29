@@ -1,0 +1,152 @@
+/* Trang chủ */
+
+.dropdown-menu {
+    background-color: rgba(0, 0, 0, 0.774) !important;
+}
+
+.dropdown-menu li a:hover {
+    background-color: black !important;
+}
+
+.container-fluid .navbar-brand {
+    margin-left: 40px;
+    margin-right: 50px;
+}
+
+.collapse ul li {
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 14px;
+    margin-right: 20px;
+}
+
+.collapse ul li:hover {
+    border: 1px solid white !important;
+    background-color: black;
+}
+
+.collapse ul li a {
+    color: aliceblue !important;
+}
+
+.navbar ul li:hover .dropdown-menu {
+    display: block;
+}
+
+
+/* Hết trang chủ */
+
+.myjob_favorites {
+    position: relative;
+    margin-top: 40px;
+    float: left;
+}
+
+.myjob_favorites h1 {
+    font-weight: bold;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.myjob_favorites p {
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.background_one {
+    position: relative;
+}
+
+.background_one .job_sixtyfour {
+    width: 100%;
+    height: 400px;
+}
+
+p i {
+    font-size: 15px;
+}
+
+.Image_result {
+    height: 300px;
+    width: 300px;
+    float: left;
+}
+
+.col_job {
+    padding-left: 80px !important;
+}
+
+.gioithieu p {
+    font-size: 18px;
+    padding-left: 50px !important;
+}
+
+#UngTuyen {
+    padding: 20px;
+    border-left: 8px solid red;
+}
+
+
+/* Form nộp đơn ứng tuyển */
+
+#exampleModalLabel {
+    display: inline-block;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 25px;
+    font-weight: bold;
+    color: red;
+}
+
+
+/*  */
+
+.button_input {
+    margin-top: -5px;
+    display: inline-block;
+    position: relative;
+    left: 30%;
+    transform: translateX(-50%);
+}
+
+a {
+    text-decoration: none !important;
+}
+
+
+/* Cuối trang web  */
+
+.footer-links ul {
+    list-style-type: none;
+}
+
+.col-lg-2 .footer-links h3 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.footer-links ul li a {
+    font-size: 100px;
+    color: inherit;
+    font-size: 14px;
+}
+
+.footer-social-links ul {
+    list-style-type: none;
+}
+
+.lazy-bg {
+    max-width: 100%;
+    height: auto;
+    border-style: none;
+    vertical-align: middle;
+}
+
+.col-lg-2 .footer-links ul li a {
+    text-decoration: none !important;
+}
+
+.col-lg-2 .footer-links ul li a:hover {
+    color: red !important;
+}

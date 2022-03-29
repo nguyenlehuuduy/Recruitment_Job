@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>177ED1BC-EB8F-4337-9DE1-53D9853D5284</title>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-687.000000, -741.000000)" fill="#85C33D" fill-rule="nonzero" id="icons8-tick-box">
+            <g transform="translate(687.000000, 741.000000)">
+                <path d="M2.25,0 C1.01590913,0 0,1.01590913 0,2.25 L0,12.75 C0,13.9840912 1.01590913,15 2.25,15 L12.75,15 C13.9840912,15 15,13.9840912 15,12.75 L15,6.75 L13.5,6.75 L13.5,12.75 C13.5,13.1659088 13.1659088,13.5 12.75,13.5 L2.25,13.5 C1.83409088,13.5 1.5,13.1659088 1.5,12.75 L1.5,2.25 C1.5,1.83409088 1.83409088,1.5 2.25,1.5 L9,1.5 L9,0 L2.25,0 Z M13.854492,1.43554688 L6.884766,8.82421875 L4.13085938,6.0703125 L3.0703125,7.130859 L6.91552725,10.9760745 L14.9458005,2.46533205 L13.854492,1.43554688 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

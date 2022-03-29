@@ -1,0 +1,56 @@
+#TrangGiua {
+    background: url('../CV/bg-2.png') no-repeat;
+}
+
+#team img {
+    margin-top: -50px;
+}
+
+#team .card {
+    border-radius: 0;
+    box-shadow: 5px 5px 15px #e74c3c;
+    transition: all 0.3s ease-in;
+    -moz-transition: all 0.3s ease-in;
+}
+
+.video {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.card-body .card-title {
+    color: black;
+}
+
+.card-body .card-text {
+    color: black;
+}
+
+#team .card:hover {
+    background-color: #e74c3c;
+    color: #fff;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 5px 5px 10px #9E9E9E;
+}
+
+.navbar ul li:hover .dropdown-menu {
+    display: block;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+#model {
+    display: block;
+    margin: 0 auto;
+}
+
+.modal-header h5 {
+    color: red;
+    font-weight: bold;
+    display: block;
+    margin: 0 auto;
+    font-size: 25px;
+}

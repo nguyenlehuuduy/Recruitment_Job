@@ -1,0 +1,40 @@
+body {
+    line-height: 1.5;
+    text-align: left;
+}
+
+a {
+    text-decoration: none !important;
+    color: rgba(0, 0, 0, 0.747) !important;
+}
+
+a:hover {
+    color: rgb(209, 1, 1) !important;
+}
+
+
+/* Giữa Trang WEb  */
+
+.title-h3 {
+    color: rgb(0, 4, 255);
+}
+
+.cus-col ul li {
+    list-style-type: none;
+}
+
+.list-featured li {
+    list-style-type: none;
+}
+
+.list-jobs-by-country li {
+    list-style-type: none;
+}
+
+.overseas-jobs ul li {
+    list-style-type: none;
+}
+
+.footer-links ul li a {
+    color: white !important;
+}

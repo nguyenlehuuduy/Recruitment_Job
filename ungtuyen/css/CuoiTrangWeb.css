@@ -1,0 +1,29 @@
+* {
+    background-color: rgba(184, 171, 171, 0.712);
+}
+
+.footer-links ul {
+    list-style-type: none;
+}
+
+.col-lg-2 .footer-links h3 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.footer-links ul li a {
+    font-size: 100px;
+    color: inherit;
+    font-size: 14px;
+}
+
+.footer-social-links ul {
+    list-style-type: none;
+}
+
+.lazy-bg {
+    max-width: 100%;
+    height: auto;
+    border-style: none;
+    vertical-align: middle;
+}

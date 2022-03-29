@@ -1,0 +1,130 @@
+body{
+    margin: 0px;
+}
+div.khungchinh{
+    float: left;
+    width: 1510px;
+    height: 3550px;
+}
+.khung1{
+    float: left;
+    width: 1510px;
+    height: 450px;
+}
+#img1{
+    width: 1510px;
+    height: 450px;
+}
+.khung2{
+    float: left;
+
+    width: 1500px;
+    height: 550px; 
+
+}
+#dv1{
+    float: left;
+
+    width:1500px;
+    height: 550px;
+}
+#t1{
+    margin-left: 550px;
+    float: left;
+    font-size: 20px;
+    margin-top: 50px;
+}
+#t2{
+    float: left;
+    font-size: 14px;
+    margin-top: 7px;
+    text-align: center;
+    margin-left: 550px;
+}
+#t3{
+    float: left;
+    margin-top: 40px;
+    height: 300px;
+    width: 1500px;
+}
+
+.image{
+    filter: initial;
+    float: left;
+    margin-left: 200px;
+}
+#t4{
+    float: left;
+    width:1500px;
+    height: 50px;
+}
+#maucv{
+    width:1500px;
+    height: 50px;
+    float: left;
+    font-size: 30px;
+    color:  red;
+    text-align: center;
+}
+#t5{
+    float: left;
+    width:1500px;
+    height: 2200px;
+}
+
+#t51{
+    margin-left: 50px;
+    margin-top: 80px;
+    float: left;
+    width: 300px;
+    height: 350px;
+}
+
+#kichthuoc{
+    filter: saturate(90%) drop-shadow(6px 6px 7px black);
+    width: 300px;
+    height: 350px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+}
+#duoiimg{
+    font-size: 20px;
+    margin-left: 35px;
+    font-weight: bold;
+}
+#t6{
+    float: left;
+}
+#t61{
+    float: left;
+    width:1500px;
+    height: 300px;
+}
+#t62{
+    float: left;
+    width:1500px;
+    height: 120px;
+    text-align: center;
+}
+
+#telephone{
+    margin-top: 25px;
+}
+#tele{
+    color: navy;
+    font-size: 20px;
+}
+a#duoiimg:link{
+    color:Blue;
+}
+a#duoiimg:visited{
+    color:black;
+}
+a#duoiimg:hover{
+    color:red;
+}
+a#duoiimg:active{
+    color:yellow;
+}
+a{text-decoration: none}

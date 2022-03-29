@@ -1,0 +1,103 @@
+/* Giữa  */
+
+.success_message {
+    display: inline-block;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    color: green;
+}
+
+.error_message {
+    display: inline-block;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    color: red;
+}
+
+.text {
+    float: left;
+    margin-top: 100px;
+    margin-left: 300px;
+}
+
+.row h5 {
+    text-align: center;
+}
+
+#row_img {
+    display: inline-block;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#img {
+    height: 45px;
+    width: 150px;
+    margin-left: 60px;
+}
+
+#button {
+    margin-top: 20px;
+    display: inline-block;
+    position: relative;
+    left: 50%;
+    width: 30%;
+    transform: translateX(-50%);
+}
+
+#button {
+    background-image: linear-gradient(to right, #348F50 0%, #56B4D3 51%, #348F50 100%) !important
+}
+
+#button {
+    width: 240px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+}
+
+#button:hover {
+    background-position: right center;
+    /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+}
+
+#button_green {
+    margin-top: 10px;
+    display: inline-block;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    background-image: linear-gradient(to right, #348F50 0%, #56B4D3 51%, #348F50 100%) !important
+}
+
+#button_green {
+    width: 240px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+}
+
+#button_green:hover {
+    background-position: right center;
+    /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+}
+
+
+/* Hết GIữa */
